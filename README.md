@@ -8,5 +8,5 @@ Add and delete products in storages.
 
 This project was created as homework for my teacher.
 
-![preview0](./preview0.png)
-![preview1](./preview1.png)
+![preview0](./preview0.jpeg)
+![preview1](./preview1.jpeg)
